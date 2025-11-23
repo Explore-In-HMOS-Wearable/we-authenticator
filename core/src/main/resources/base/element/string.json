@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "profile_title",
+      "value": "My Profile"
+    },
+    {
+      "name": "edit_button",
+      "value": "Edit Profile"
+    },
+    {
+      "name": "cancel_button",
+      "value": "Cancel"
+    },
+    {
+      "name": "save_button",
+      "value": "Save"
+    },
+    {
+      "name": "credit_card_title",
+      "value": "Credit card"
+    },
+    {
+      "name": "card_number_hint",
+      "value": "Card Number"
+    },
+    {
+      "name": "card_name_hint",
+      "value": "Cardholder Name"
+    },
+    {
+      "name": "expiry_hint",
+      "value": "MM/YY"
+    },
+    {
+      "name": "cvv_hint",
+      "value": "CVV"
+    },
+    {
+      "name": "card_number_error",
+      "value": "Enter valid 16-digit card"
+    },
+    {
+      "name": "card_name_error",
+      "value": "Enter cardholder name"
+    },
+    {
+      "name": "expiry_error",
+      "value": "Enter valid expiry"
+    },
+    {
+      "name": "cvv_error",
+      "value": "Enter 3-digit CVV"
+    }
+  ]
+}

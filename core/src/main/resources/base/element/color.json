@@ -1,0 +1,48 @@
+{
+  "color": [
+    {
+      "name": "button_color",
+      "value": "#007DFF"
+    },
+    {
+      "name": "base_background_gradient_start",
+      "value": "#FF0B1F3B"
+    },
+    {
+      "name": "base_background_gradient_end",
+      "value": "#FF00050A"
+    },
+    {
+      "name": "menu_item_background",
+      "value": "#FF182035"
+    },
+    {
+      "name": "text_primary",
+      "value": "#FFFFFFFF"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#FFCCCCCC"
+    },
+    {
+      "name": "text_on_accent",
+      "value": "#FFFFFFFF"
+    },
+    {
+      "name": "accent",
+      "value": "#FF4285F4"
+    },
+    {
+      "name": "card_background",
+      "value": "#FF2A2A3A"
+    },
+    {
+      "name": "border_primary",
+      "value": "#FF444444"
+    },
+    {
+      "name": "active_state",
+      "value": "#FF3367D6"
+    }
+  ]
+}

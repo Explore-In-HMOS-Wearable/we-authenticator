@@ -1,0 +1,15 @@
+{
+  "devices": {
+    "general": [
+      "wearable"
+    ],
+    "custom": [
+      {
+        "wearable": [
+          "SystemCapability.Security.Huks.Core",
+          "SystemCapability.Security.Huks.Extension"
+        ]
+      }
+    ]
+  }
+}

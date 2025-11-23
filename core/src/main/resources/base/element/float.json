@@ -1,0 +1,64 @@
+{
+  "float": [
+    {
+      "name": "title_font_size",
+      "value": "20fp"
+    },
+    {
+      "name": "header_font_size",
+      "value": "18fp"
+    },
+    {
+      "name": "normal_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "avatar_text_size",
+      "value": "36fp"
+    },
+    {
+      "name": "avatar_size",
+      "value": "60vp"
+    },
+    {
+      "name": "button_width",
+      "value": "150vp"
+    },
+    {
+      "name": "button_height",
+      "value": "40vp"
+    },
+    {
+      "name": "small_button_width",
+      "value": "120vp"
+    },
+    {
+      "name": "input_width",
+      "value": "200vp"
+    },
+    {
+      "name": "input_height",
+      "value": "40vp"
+    },
+    {
+      "name": "screen_padding",
+      "value": "40vp"
+    },
+    {
+      "name": "small_margin",
+      "value": "10vp"
+    },
+    {
+      "name": "medium_margin",
+      "value": "15vp"
+    },
+    {
+      "name": "large_margin",
+      "value": "20vp"
+    },
+    {
+      "name": "icon_size",
+      "value": "24vp"
+    }
+  ]
+}
